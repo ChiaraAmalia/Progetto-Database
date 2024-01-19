@@ -93,7 +93,6 @@ ogni due mesi)
 
 Statistica guasti riparati per tecnico (una volta al mese)
 
-Margheeee🍔, [09/03/2022 12:27]
 ![](https://github.com/ChiaraAmalia/Progetto-Database/blob/main/immagini%20query%20database/query33.png)
 
 Statistica numero tecnici per ruolo e specializzazione (due volte
